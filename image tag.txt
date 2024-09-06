@@ -1,0 +1,13 @@
+<html>
+<head>
+    <title>adding images in html</title>
+</head>
+
+<body>
+      <h2>Basic Of Image Of Red Rose</h2>
+      <p>below is the picture of red rose flower</p>
+
+      <img src="img/red.jpg" alt="flower">
+
+      </body>
+      </html>
